@@ -1,0 +1,16 @@
+Encrypt Stuff with openssl Bash Scripts
+Produced by a citizen of the Nation of Flos Regium: https://flosregium.online
+License: TNOFRS License (See License File)
+Privacy Respecting Browser Startpage: https://historya.live/start/
+=========================================
+
+These bash scripts are designed to make it easy to encrypt/decrypt text and/or files using openssl.
+
+How to use:
+* Obtain the script package
+* Read and agree to the short license
+* Make the script(s) runable (chmod +x filename)
+* The encrypt-file.sh does the thing
+* The decrypt-file.sh does the thing but in reverse
+* The encrypt-text.sh does the thing with text
+* The encrypt-text.sh does the thing with text but reverse
